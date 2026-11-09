@@ -1,0 +1,5 @@
+#Write a program to print the square of each number from 1 to 10 using a for loop.
+#Example Output: 1 4 9 16 25 36 49 64 81 100
+i=1
+for i in range(i,11,1):
+    print(i**2)
